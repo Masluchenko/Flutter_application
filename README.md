@@ -1,4 +1,5 @@
-# flutter_application_1
+# flutter_eventPoster
+
 
 A new Flutter project.
 
